@@ -1,0 +1,28 @@
+{
+  "name": "rocketseat-NLWStarter-Ecoleta",
+  "version": "1.0.0",
+  "description": "## 🗒️ Sobre a aplicação",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancsoliveira/rocketseat-NLWStarter-Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Alan C S Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancsoliveira/rocketseat-NLWStarter-Ecoleta/issues"
+  },
+  "homepage": "https://github.com/alancsoliveira/rocketseat-NLWStarter-Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
