@@ -8,24 +8,24 @@ O projeto **Ecoleta** desenvolvido durante a **Next Level Week** é uma aplicaç
 
 <div align="center">
 
-<img src="./img/preview.gif" width="500px" alt="logo" />
+<img src="public/img/preview.gif" width="500px" alt="logo" />
 
 </div>
 
 <details><summary>Tela principal</summary>
 
-![TelaPrincipal](img/home-page.png)
+![TelaPrincipal](public/img/home-page.png)
 </details>
 
 <details><summary>Buscar pontos</summary>
 
-![TelaPrincipal](img/search-results.png)
+![TelaPrincipal](public/img/search-results.png)
 </details>
 
 <details><summary>Tela de cadastro</summary>
 
-![TelaPrincipal](img/page-create-point.png)
-![TelaPrincipal](img/page-create-point_2.png)
+![TelaPrincipal](public/img/page-create-point.png)
+![TelaPrincipal](public/img/page-create-point_2.png)
 </details>
 
 
