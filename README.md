@@ -6,22 +6,8 @@ O projeto **Ecoleta** desenvolvido durante a **Next Level Week** é uma aplicaç
 
 ## 🔥 Prévia da aplicação
 
-<div style="display: flex;
-    justify-content: center;">
-  <img id="AN5" src="EcoletaPreview/AN5.png" style="
-  width: 500px;
-  position: relative;
-  display: flex;">
-  <img id="EcoletaPreview" src="EcoletaPreview/EcoletaPreview.gif" style="
-  width: 333px;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  top: 276px;
-  border-radius: 4px;
-  border: 2px solid #00000044;" >
-  
-</div>
+<div align="center">
+  <img id="AN5" src="EcoletaPreview/AN5.png" style="width: 500px; position: relative; display: flex;"><img id="EcoletaPreview" src="EcoletaPreview/EcoletaPreview.gif" style=" width: 333px; position: absolute; display: flex; justify-content: center; top: 276px; border-radius: 4px; border: 2px solid #00000044;"></div>
 
 <details><summary>Tela principal</summary>
 
